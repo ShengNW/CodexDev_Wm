@@ -1,5 +1,8 @@
 *
 !OOD/
+!OOD/**
 !try/
+!try/**
 !AGENTS.md
 !.gitignore
+*.swp
